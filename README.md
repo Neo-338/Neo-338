@@ -1,4 +1,3 @@
-<h2 align="center"> Hi there 👋</h2>
 <h2 align="center"> Hi, I’m @Neo-338 </h2>
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset=https://github.com/Neo-338/Images-to-my-readme/assets/169391481/78b63dec-f121-4745-91e8-70910563e6a7
